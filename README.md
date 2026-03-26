@@ -1,5 +1,7 @@
 # JWTee
 
+<img width="989" height="652" alt="image" src="https://github.com/user-attachments/assets/84a89b2d-4b24-4256-96b7-849b30ed2190" />
+
 JWT Security Toolkit for bug bounty hunting and CTF challenges.
 Decode any JWT, sign custom tokens, embed files inside JWTs, and run a full suite of known JWT attacks — all from the command line with zero dependencies.
 
