@@ -1,0 +1,2 @@
+# JWTee has no external dependencies.
+# Requires Python 3.7+ only (standard library).
